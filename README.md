@@ -22,7 +22,7 @@
     </a>  
      </a>
     <a href="https://www.instagram.com/cybertronayush/?hl=en">
-        <img height=30 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+        <img height=30 src="2018_social_media_popular_app_logo_instagram-512.webp">
     </a>  
     
 
