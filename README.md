@@ -1,7 +1,7 @@
 #   Ayush Singh Chauhan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 <img height="33" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img height="33" img src="js.png"/> <img height="31" img src="99f887833c475448723d3c9ac16c179b.jpg"/> <img height="33" img src="r.png"/>  <img height="33" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="31" img src="download.jpg"/> <img height="33" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img height="36" img src="pasted image 0.png"/>
 
-<h2> Hi everyone ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi Everyone I'm Glad you came ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="150px" />
 <p align="center">
