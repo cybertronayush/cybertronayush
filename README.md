@@ -29,7 +29,7 @@
 <br />
 <hr />
 <!--
-**mishravimal99/mishravimal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cybertronayush/cybertronayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 * 🔭 I’m currently working on improving myself.<br>
@@ -37,14 +37,10 @@ Here are some ideas to get you started:
 * 🌱 I’m also currently learning Android Devlopment.<br>
 * 🤔 I’m looking for help with my portfolio website.<br>
 * 💬 Ask me about anything for help.<br>
-* ⚡ Amusement fact:When I am not working , I am busy Watching <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
+* ⚡ Amusement fact:When I am not working , I am busy Watching <code><img  height="20" src="cd.png"></code>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybertronayush&show_icons=true&locale=en&layout=compact" alt="cybertronayush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybertronayush&show_icons=true&locale=en" alt="cybertronayush" /></p>
 
-![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
-### Blogs posts
-<br>
-
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&theme=dracula"></code>
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishravimal99&theme=dracula"></code>
-<br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
+
