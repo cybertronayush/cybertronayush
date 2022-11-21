@@ -33,8 +33,6 @@
 Here are some ideas to get you started:
 -->
 * 🔭 I’m currently working on improving myself.<br>
-* 🌱 I’m currently learning competitive programming.<br>
-* 🌱 I’m also currently learning Android Devlopment.<br>
 * 🤔 I’m looking for new SDE Opportunities.<br>
 * 💬 Ask me about anything for help.<br>
 * ⚡ Amusement fact:When I am not working , I am busy Watching <code><img  height="20" src="cd.png"></code>
