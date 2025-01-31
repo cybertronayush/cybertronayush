@@ -14,9 +14,9 @@
  <a href="https://www.linkedin.com/in/ayush-singh-chauhan-11baa91b3/">
         <img height=30 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a> 
-    <a href="https://www.hackerrank.com/?hr_r=1">
+<!--     <a href="https://www.hackerrank.com/?hr_r=1">
         <img height=30 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-    </a>
+    </a> -->
     <a href="https://auth.geeksforgeeks.org/user/practice/">
         <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
     </a>  
